@@ -1,3 +1,4 @@
+![logo](https://github.com/gyanendra29-bca/gyanendra29-bca/blob/main/welcome%20gyanendra%20tiwari..png)
 <h1 align="center">Hi 👋, I'm gyaanendra29-bca</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
