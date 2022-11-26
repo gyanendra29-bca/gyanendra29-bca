@@ -1,8 +1,7 @@
-![logo](https://github.com/gyanendra29-bca/gyanendra29-bca/blob/main/welcome%20gyanendra%20tiwari..png)
 <h1 align="center">Hi 👋, I'm gyaanendra29-bca</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+<img align="center" alt="coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gyanendra29-bca&label=Profile%20views&color=0e75b6&style=flat" alt="gyanendra29-bca" /> </p>
