@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm gyaanendra29-bca</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm gyaanendra29-bca</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **gyanendratiwari200@gmail.com**
 
-- ⚡ Fun fact **I am funny😁**
+- ⚡ Fun fact **I am very serious during exam time😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
