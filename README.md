@@ -14,6 +14,7 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=gyanendra29-bca&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gyanendra29-bca&bg_color=050505&color=00994a&line=35d10a&point=13624e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Thanks for visiting my profile
 ![snake gif](https://github.com/gyanendra29-bca/gyanendra29-bca/blob/output/github-contribution-grid-snake.gif)
