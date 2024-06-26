@@ -2,11 +2,12 @@
 <img src="https://github.com/gyanendra29-bca/gyanendra29-bca/blob/main/gif4.gif?raw=true" width="400px" />  
 </div>
 
+
 <h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gyanendra Tiwari</h1>
 <h3 align="center">Currently, I am a student pursuing my Bachelor's Degree (BCA) from the University of Allahabad.</h3>
 
 ## :man_technologist:About Me
-- 🌱 I’m currently learning Cyber Security and Ethical Hacking.
+- 🌱 I’m currently learning Dart and Flutter App development.
 - 🔭 I’m currently working on Android projects.
 - 💬 Ask me about Java,C,C++ .Net/C#, Kotlin.
 - ✨ Interested in exploring the possibilities of **Android Development**.
@@ -15,10 +16,10 @@
 -which I have worked with or just hands-on
 | Categories      | Tools & Skills |
 | ----------- | ----------- | 
-| 👩‍💻 Languages     | ![Gyanendra Tiwari](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Gyanendra Tiwari](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Gyanendra Tiwari](	https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Gyanendra Tiwari](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![Gyanendra Tiwari](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) |
+| 👩‍💻 Languages     | ![Gyanendra Tiwari](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Gyanendra Tiwari](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Gyanendra Tiwari](	https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Gyanendra Tiwari](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![Gyanendra Tiwari](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Gyanendra Tiwari](https://img.shields.io/badge/DART-00599C?style=for-the-badge&logo=dart&logoColor=white) |
 | ⚡ Database   | ![Gyanendra Tiwari](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Gyanendra Tiwari](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)|
 | 🖍 Design     | ![Gyanendra Tiwari](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-| 👩‍💻 IDE    | ![Gyanendra Tiwari](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important) ![Gyanendra Tiwari](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Gyanendra Tiwari](https://img.shields.io/badge/AndroidStudio-4EA94B?style=for-the-badge&logo=AndroidStudio&logoColor=white) ![Gyanendra Tiwari](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) |
+| 👩‍💻 IDE    | ![Gyanendra Tiwari](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important) ![Gyanendra Tiwari](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Gyanendra Tiwari](https://img.shields.io/badge/AndroidStudio-4EA94B?style=for-the-badge&logo=AndroidStudio&logoColor=white) ![Gyanendra Tiwari](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)![Gyanendra Tiwari](https://img.shields.io/badge/FLUTTTER-1877F2?style=for-the-badge&logo=flutter&logoColor=white) |
 |📚 Frameworks, Platforms and Libraries| ![Gyanendra Tiwari](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 | 🎓 Education  | ![Gyanendra Tiwari](https://img.shields.io/badge/YouTube-D14836?style=for-the-badge&logo=YouTube&logoColor=white) 
 | 📱 OS         | ![Gyanendra Tiwari](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Gyanendra Tiwari](https://img.shields.io/badge/windows-3944F7?style=for-the-badge&logo=windows&logoColor=white) ![Gyanendra Tiwari](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Gyanendra Tiwari](https://img.shields.io/badge/KALILINUX-E95420?style=for-the-badge&logo=kalilinux&logoColor=white) |
