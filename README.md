@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gyanendra Tiwari</h1>
-<h3 align="center">Currently, I am a student pursuing my Bachelor's Degree (BCA) from the University of Allahabad.</h3>
+<h3 align="center">Currently, I am a student pursuing my Master's Degree (MCA) from the GLA University Mathura.</h3>
 
 ## :man_technologist:About Me
 - 🌱 I’m currently learning Dart and Flutter App development.
