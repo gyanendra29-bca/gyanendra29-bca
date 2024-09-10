@@ -5,6 +5,7 @@
 
 <h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gyanendra Tiwari</h1>
 <h3 align="center">Currently, I am a student pursuing my Master's Degree (MCA) from the GLA University Mathura.</h3>
+<img align='right' src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="300">
 
 ## :man_technologist:About Me
 - 🌱 I’m currently learning Dart and Flutter App development.
